@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.carousel-inner img {
+    width: auto;
+    height: 90vh !important;
+}
+.carousel-item .web_development{
+    background-color: #000;
+}
+/* .img-fluid {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+} */
+.img{
+    width: 100%;
+    max-width: 100%;
+    height: 300px;
+}
